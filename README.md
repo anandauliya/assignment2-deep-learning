@@ -1,6 +1,8 @@
 # Assignment 2 Learning Strategy: Regularization on MNIST
-**Nama:** [Ananda Auliya Rahma]
-**NIM:** [24/533691/PA/22608]
+**Nama:** Ananda Auliya Rahma
+
+
+**NIM:** 24/533691/PA/22608
 
 Replikasi kode klasifikasi MNIST + 5 eksperimen:
 L1, L2, Dropout, Early Stopping, dan L1+Dropout.
